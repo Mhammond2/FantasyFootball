@@ -49,6 +49,7 @@ $ python app.py
 
 Sources:
 
+https://www.footballdb.com/fantasy-football/index.html
 
 
 Tools & languages: JavaScript, HTML, Python Flask, Jupyter Notebook, MongoDB
