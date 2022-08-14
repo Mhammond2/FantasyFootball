@@ -51,6 +51,8 @@ Sources:
 
 https://www.footballdb.com/fantasy-football/index.html
 
+https://www.quickdatabasediagrams.com/
+
 
 Tools & languages: JavaScript, HTML, Python Flask, Jupyter Notebook, MongoDB
 
