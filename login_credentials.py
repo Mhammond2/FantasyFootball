@@ -1,2 +1,0 @@
-Username = 'postgres'
-Password = 'postgres'
